@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Paulyang80
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning Golang & Web
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI, gaming.
+- 🌱 I’m currently learning GANs.
 - 📫 How to reach me paulyang80@gmail.com
 
 <!---
